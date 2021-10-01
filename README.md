@@ -24,7 +24,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./assets/Foto-Weslei.jpg" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="./assets/Foto-Weslei.jpg" width="100px;" alt="Foto do Weslei Possidonio no GitHub"/><br>
         <sub>
           <b>Weslei França</b>
         </sub>
